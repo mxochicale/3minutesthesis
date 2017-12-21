@@ -1,10 +1,20 @@
 Rehearsals
 ---
 
+I will be updating this repository with regard to my rehearsals towards the three minutes thesis competition. I think this is a good exercise to track my progress in the use of English language.
 
-I will be pushing some updates regarding my rehearsals towards the three minutes thesis competion.
+**NOTE** From the recommendations, it is important to keep in mind that
+"You should be aiming for approximately 200 -250 written words for your three-minute summary".
 
-Let see how it goes and how slow or fast is my progress in the use of English language.
 
+# Abstract Submission
+
+The latest update of the submission is [here](https://github.com/mxochicale/3minutesthesis/blob/master/rehearsals/SUBMISSION.md)
+
+# Trials
+
+The following links provide some audio recordings, go to the description for the transcript.
+
+* [Trial 00](https://www.youtube.com/) on DAYMONTHYEAR
 
 

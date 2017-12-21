@@ -18,11 +18,11 @@ we warmly encourage you to take part. [Source](https://intranet.birmingham.ac.uk
 
 
 # Key Dates:
-* Deadline to submit your application: 8 May 2017
-* 3MT heats will take place on 24 May & 25 May 2017
-* Birmingham 3MT final: 9 June 2017
-* UK-wide 3MT semi-final: mid-July 2017
-* UK-wide final: 11 September 2017
+- [ ] Deadline to submit your application: 8 May 2017
+- [ ] 3MT heats will take place on 24 May & 25 May 2017
+- [ ] Birmingham 3MT final: 9 June 2017
+- [ ] UK-wide 3MT semi-final: mid-July 2017
+- [ ] UK-wide final: 11 September 2017
 
 # Rules and Regulations
 
@@ -64,9 +64,7 @@ The Birmingham 3MT 2017 Winner's Prize will be a £500 bursary.
 
 
 * Birmingham 3MT 2016 winner: [Mathew Schofield (School of Physics and Astronomy)](https://www.youtube.com/watch?v=DhVb9cAWqWM)
-
 * Birmingham 3MT 2015 winner: [Rosalind Davies (School of Chemical Engineering)](https://www.youtube.com/watch?v=3WopKnCkMRg&feature=youtu.be)
-
 * Birmingham 3MT 2014 winner: [Chris Morgan (School of Biosciences)](https://www.youtube.com/watch?v=L4A9t9ddaYg)
 
 
