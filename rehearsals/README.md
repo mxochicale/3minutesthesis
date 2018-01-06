@@ -21,7 +21,21 @@ The latest update of the submission is
 and improve the speech by adding some figures!
 
 # Trials
-The following links provide some audio recordings, go to the description for the
-transcript:
+The following links provide video recordings of the transcripts.
 
-* [Trial 00](https://www.youtube.com/) on DAYMONTHYEAR
+
+* [Video: Trial 00](https://www.youtube.com/), [transcript commit](commit) on DAYMONTHYEAR
+
+
+# Videos
+These are some instrucstions for the creation of the video
+1. Record an audio with audacity, amplify it and clean the background noise
+2. In Kdenlive, add clips for image and audio and adjust the size of image. You can use the audio effect of audio waveform filter to show a live 
+waveform in the video. 
+3. Then you can render it to file.
+
+
+
+
+
+
