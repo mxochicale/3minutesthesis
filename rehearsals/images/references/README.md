@@ -2,6 +2,11 @@ REFERENCES
 ---
 
 
-https://www.good.is/articles/robots-elder-care-pepper-exoskeletons-japan
+* https://www.good.is/articles/robots-elder-care-pepper-exoskeletons-japan
+
+* This might be another suitable [image](https://static01.nyt.com/images/2014/07/20/sunday-review/0720robot/0720robot-superJumbo.jpg) 
+ for the presentation by [Souther Salazar] which appears in [the future of robot caregivers](https://www.nytimes.com/2014/07/20/opinion/sunday/the-future-of-robot-caregivers.html)
+
+
 
 
