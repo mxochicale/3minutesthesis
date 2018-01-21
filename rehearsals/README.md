@@ -17,20 +17,12 @@ The latest update of the submission is
 
 
 
-# Videos
-These are some instrucstions for the creation of the video
-1. Record an audio with audacity, amplify it and clean the background noise
-2. In Kdenlive, add clips for image and audio and adjust the size of image. You can use the audio effect of audio waveform filter to show a live 
-waveform in the video. 
-3. Then you can render it to file.
-
-
-
 # Trials
 The following links provide video recordings of the transcripts.
 
-* [Video: Trial 00](https://www.youtube.com/watch?v=UMBJ7VPZSnU), [transcript commit](https://github.com/mxochicale/3minutesthesis/commit/ae7c0a5a293578f60d66539454cb0b58f99003ca#diff-23d0229db62317f7ff1b57244845ff08) on 6JANUARY2018
-*
+* [Video: Trial 00](https://www.youtube.com/watch?v=UMBJ7VPZSnU), [transcript commit](https://github.com/mxochicale/3minutesthesis/commit/ae7c0a5a293578f60d66539454cb0b58f99003ca#diff-23d0229db62317f7ff1b57244845ff08) on 6january2018
+* [Video: Trial 01](https://youtu.be/luczrqbh8ZA), [ add commit number link]() on 21january2018
+
 
 
 
