@@ -1,4 +1,4 @@
-Three Minute Thesis (3MT)
+Three Minute Thesis (3MT) [:link:](https://intranet.birmingham.ac.uk/as/studentservices/graduateschool/eventinfo/3MT.aspx)
 ---
 
 Three Minute Thesis (3MT®) is a research communication competition developed 
@@ -18,13 +18,27 @@ we warmly encourage you to take part. [Source](https://intranet.birmingham.ac.uk
 
 
 # Key Dates:
-- [ ] Deadline to submit your application: 8 May 2017
-- [ ] 3MT heats will take place on 24 May & 25 May 2017
-- [ ] Birmingham 3MT final: 9 June 2017
-- [ ] UK-wide 3MT semi-final: mid-July 2017
-- [ ] UK-wide final: 11 September 2017
+* [x] Deadline to submit your application: 9 April 2018  _(done: 15february2018)_
+* [ ] 3MT heat will take place on 3 May 2018
+* [ ] Birmingham 3MT final: 16 May 2018
+* [ ] UK-wide 3MT semi-final: mid-July 2018
+* [ ] UK-wide final: 17 September 2018
 
-# Rules and Regulations
+## About Birmingham 3MT
+
+If you enter the competition, you will be invited to take part in a 'heat' 
+with other entrants from across the University and the top ten presenters 
+from across these 'heat' events will be selected to compete in the final.
+
+The competition will give you the opportunity to compete for a place in 
+the nationwide UK 3MT contest. The winner of the Birmingham competition 
+will go forward to the UK-wide 3MT semi-final, and to compete for 
+one of six places in the UK final at the Vitae Annual Conference.
+
+Please direct any questions about the Birmingham 3MT to Dr Eren Bilgen (f.erenbilgen@bham.ac.uk)
+
+
+## Rules and Regulations
 
 ## To enter the Birmingham 3MT competition, you must:
 
@@ -32,11 +46,11 @@ we warmly encourage you to take part. [Source](https://intranet.birmingham.ac.uk
 Birmingham. This includes students who have submitted their thesis and 
 are awaiting their viva.
 * Be available for a heat event on one of the following dates: 
- 24 May (10:00-11:30) or 25 May (10:00-11:30)
+ Thursday 3 May 2018
 * Be available, if shortlisted after the heat event, for the Birmingham 
- final on 9 June 2017 (10:00-13:00).
+ final on 16 May 2018
 * Be available, if successful, to participate the UK-wide final on 
- 11 September
+ 17 September 2018
 * Agree to your presentation being videoed
 
 
@@ -62,7 +76,7 @@ The Birmingham 3MT 2017 Winner's Prize will be a £500 bursary.
 
 # University of Birmingham 3MT winners
 
-
+* Birmingham 3MT 2017 winner: [Meryl Lewis (School of Clinical Psychology)](https://www.youtube.com/watch?v=zUM6l6miaMA)
 * Birmingham 3MT 2016 winner: [Mathew Schofield (School of Physics and Astronomy)](https://www.youtube.com/watch?v=DhVb9cAWqWM)
 * Birmingham 3MT 2015 winner: [Rosalind Davies (School of Chemical Engineering)](https://www.youtube.com/watch?v=3WopKnCkMRg&feature=youtu.be)
 * Birmingham 3MT 2014 winner: [Chris Morgan (School of Biosciences)](https://www.youtube.com/watch?v=L4A9t9ddaYg)
@@ -99,6 +113,15 @@ express them more simply or clearly.
 into YouTube and watching the filmed presentations of past entrants
 
 
+* Simon Clews from the University of Melbourne has prepared helpful 
+guidelines for Making the Most of Your Three Minutes [:link:](https://www.grad.ubc.ca/sites/default/files/materials/gps_3MT.pdf)
+
+* Inger Mewburn (Royal Melbourne Institute of Technology, RMIT) 
+has developed a presentation about the 3MT [:link:](https://prezi.com/jwhwyydfzqxo/how-to-talk-about-your-thesis-in-3-minutes/)
+https://twitter.com/thesiswhisperer
+
+
+
 
 # Presentations will be judged according to the following criteria:
 
@@ -127,3 +150,9 @@ range; maintain a steady pace, and have a confident stance?
 legible, and concise?
 
 
+
+
+# TWITTS
+
+
+* `https://twitter.com/_mxochicale/status/963758445479563265`
