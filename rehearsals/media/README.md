@@ -5,8 +5,10 @@ Trials
 # Procedure
 These are some instructions for the creation of the video:
 
-* 1. In Audacity, record an audio of the script, amplify it and apply "Noise Reduction" by
-selecting a noisy signal and then select again "Noise Reduction" and apply. Save file as mp3 file
+* 1. In Audacity, record an audio of the script, 
+	* apply "Noise Reduction" by selecting a noisy signal and then select again "Noise Reduction" and apply. 
+	* amplify the audio with the default value Application (dB) 22.218.
+	* export and save audio as MP3 file 
 
 * 2. In Kdenlive, add clips for image and audio and adjust the size of image. 
 	* 2.1 Add Image as Video 1
@@ -19,14 +21,6 @@ selecting a noisy signal and then select again "Noise Reduction" and apply. Save
 * 3. Upload to youtube as un unlisted video also added it to the playlist 3minutesthesis 
 
 
-
-# trials
-
-## trial00
-* [Video: Trial 00](https://www.youtube.com/watch?v=UMBJ7VPZSnU) on 6january2018
-
-## trisl01
-* [Video: Trial 00](https://youtu.be/luczrqbh8ZA) on 21january2018
 
 
 

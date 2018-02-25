@@ -1,6 +1,6 @@
 # Are Robots the Future of Elder Care?
 
-![Image of Robocoach](https://github.com/mxochicale/3minutesthesis/blob/master/rehearsals/images/figure01.png)
+![Image of Robocoach](https://github.com/mxochicale/3minutesthesis/blob/master/rehearsals/images/figure02.png)
 
 # ABSTRACT
 If you are lucky enough, you will live an average of 80 years.
