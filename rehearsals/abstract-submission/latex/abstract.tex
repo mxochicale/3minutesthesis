@@ -1,6 +1,8 @@
 \documentclass[12pt]{article}
-\usepackage[a4paper, total={6in, 10in}]{geometry}
+\usepackage[a4paper, total={6in, 10in},top=10mm, bottom=5mm]{geometry}
 \usepackage{hyperref}
+\usepackage{pgfgantt}
+
 
 \usepackage{graphicx}
 \graphicspath{{../../images/}}
@@ -56,14 +58,30 @@ from these technological advances
 but I do believe that future generations of people will be assisted by caregiver robots,
 therefore making the elderly more independent, happier and healthier!
 
+\vspace{10mm}
+
+\begin{ganttchart}[
+	hgrid,
+	vgrid,
+	x unit=1mm,
+	time slot format=isodate-yearmonth
+	]{2018-03-01}{2018-05-31}
+%\gantttitlecalendar{year,month=shortname,week} \\
+\gantttitlecalendar{year,month=shortname} \\
+\ganttbar{rehearsals}{2018-03-02}{2018-04-30} \\
+\ganttmilestone{heat}{2018-05-03} \\
+\ganttmilestone{bham-final}{2018-05-16}
+\end{ganttchart}
 
 \newpage
 
-\begin{sidewaysfigure}
-\centering
-\includegraphics{figure02}
-\caption{3 minutes thesis figure}
-\end{sidewaysfigure}
+
+
+%\begin{sidewaysfigure}
+%\centering
+%\includegraphics{figure02}
+%\caption{3 minutes thesis figure}
+%\end{sidewaysfigure}
 
 
 
