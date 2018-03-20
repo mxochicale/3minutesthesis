@@ -30,9 +30,9 @@ Another example is Pepper, a personal humanoid robot, that has the power
 to read and respond to human emotions[0]
 and the list goes on and on.
 
-Generally speaking, caregiver robots can meet our physical and emotional needs as we age,
+In a near future, caregiver robots will meet our physical and emotional needs as we age,
 by offering reminders about appointments or medication 
-and by encouraging social activity, healthy eating and exercise[4].
+and by encouraging social activities, healthy eating and exercise[4].
 
 That is the future that I am working on.
 A future where humanoid robots with the use of sensors can understand human movement and emotions.
@@ -45,7 +45,7 @@ from these technological advances
 but I do believe that future generations of people will be assisted by caregiver robots,
 therefore making the elderly more independent, happier and healthier!
 
-380_ words_ which I read in around  
+382 _words_
 
 # References
 * [ [0] Mark Hay, 24 June 2015 ](https://www.good.is/articles/robots-elder-care-pepper-exoskeletons-japan)
