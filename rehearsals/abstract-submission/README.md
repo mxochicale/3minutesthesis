@@ -30,7 +30,7 @@ Another example is Pepper, a personal humanoid robot, that has the power
 to read and respond to human emotions[0]
 and the list goes on and on.
 
-In a near future, caregiver robots will meet our physical and emotional needs as we age,
+In the near future, caregiver robots will meet our physical and emotional needs as we age,
 by offering reminders about appointments or medication 
 and by encouraging social activities, healthy eating and exercise[4].
 
