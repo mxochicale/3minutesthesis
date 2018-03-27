@@ -35,17 +35,19 @@ by offering reminders about appointments or medication
 and by encouraging social activities, healthy eating and exercise[4].
 
 That is the future that I am working on.
-A future where humanoid robots with the use of sensors can understand human movement and emotions.
-Particularly, in my PhD I have implemented and developed algorithms to measure 
-variability of movement and emotions 
-for which humanoid robots can enhance and monitor physical activities of the elderly[5].
+A future where humanoid robots can enhance and monitor physical activities of the elderly
+using sensors and machine learning algorithms.
+Particularly, in my PhD I have implemented and developed algorithms
+to measure movement variability and conducted experiments of human-robot imitation activities 
+in order to automatically measure human movement and emotions[5].
 
 Perhaps my parents, back in Mexico, are not going to be benefit 
 from these technological advances 
-but I do believe that future generations of people will be assisted by caregiver robots,
+but I do believe that future generations of people around the world
+will be assisted by caregiver robots,
 therefore making the elderly more independent, happier and healthier!
 
-382 _words_
+389 _words_
 
 # References
 * [ [0] Mark Hay, 24 June 2015 ](https://www.good.is/articles/robots-elder-care-pepper-exoskeletons-japan)

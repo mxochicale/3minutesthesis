@@ -1,6 +1,16 @@
 # TODO
 
 
+* [ ] create a pandoc latex document to avoid uptaing read me and latex document
+	(added:27march2018, sorted:)
+
+* [ ] change the image to one which is more related to the research outcomes
+	(added:27march2018, sorted:)
+
+* [ ] add the videos for trials 05 and trials 06
+	(added:27march2018, sorted:)
+
+
 - [ ] Watch [Robot and Frank (2012)](http://www.imdb.com/title/tt1990314/) and add some futuristic 
 scenarios of applications for robot caregivers
 	(Created: 17January2019, Sorted: commit:[]  )
