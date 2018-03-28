@@ -3,6 +3,13 @@ Inkspacpe
 
 https://static01.nyt.com/images/2014/07/20/sunday-review/0720robot/0720robot-superJumbo.jpg
 
+
+
+```
+inkscape --export-png figure04.png drawing-v01.svg
+```
+
+
 ```
 
 inkscape --export-png figure03.png drawing.svg

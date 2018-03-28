@@ -13,3 +13,8 @@ REFERENCES
 
 
 
+* 1.jpg
+https://www.shutterstock.com/video/clip-15087964-stock-footage-particle-grid-vector-loop-with-sense-of-network-ai-artificial-intelligence-technology.html
+
+
+
