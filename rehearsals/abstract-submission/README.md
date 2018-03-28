@@ -20,7 +20,7 @@ are expected to be more than double by 2050 and to be more than triple by 2100[2
 
 Well, you don`t have to worry too much in the coming years, 
 because this is where caregiver robots come in.
-For example, in the last decade, experimental robots, mainly Japannese ones, 
+To give you some examples, in the last decade, experimental robots, mainly Japannese ones, 
 have the capacity to help lift people into and out of their beds and chairs,
 follow recipies for cooking, fold towels or even dispense pills[3].
 Recently, in the last five years robots like
@@ -35,11 +35,11 @@ by offering reminders about appointments or medication
 and by encouraging social activities, healthy eating and exercise[4].
 
 That is the future that I am working on.
-A future where humanoid robots can enhance and monitor physical activities of the elderly
-using sensors and machine learning algorithms.
-Particularly, in my PhD I have implemented and developed algorithms
-to measure movement variability and conducted experiments of human-robot imitation activities 
-in order to automatically measure human movement and emotions[5].
+A future where humanoid robots can enhance and monitor physical activities of the elderly.
+Particularly, in my PhD 
+I have studied, understood and implemented algorithms of nonlinear dynamics and neural networks
+in order to automatically measure human movement and emotions 
+in the context of human-robot imitation activities[5].
 
 Perhaps my parents, back in Mexico, are not going to be benefit 
 from these technological advances 
