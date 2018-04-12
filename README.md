@@ -19,6 +19,8 @@ we warmly encourage you to take part. [Source](https://intranet.birmingham.ac.uk
 
 # Key Dates:
 * [x] Deadline to submit your application: 9 April 2018  _(done: 15february2018)_
+* [ ] 3MT Training: (Date: Thursday, 19 April 2018, Time: 15:00-17:00, Place: Gisbert Kapp NG 15)
+* [ ] The deadline to submit your 3MT slide for the heat is 1 May 2018.
 * [ ] 3MT heat will take place on 3 May 2018
 * [ ] Birmingham 3MT final: 16 May 2018
 * [ ] UK-wide 3MT semi-final: mid-July 2018
