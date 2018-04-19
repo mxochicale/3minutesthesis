@@ -31,15 +31,14 @@ to read and respond to human emotions[0]
 and the list goes on and on.
 
 In the near future, caregiver robots will meet our physical and emotional needs as we age,
-by offering reminders about appointments or medication 
-and by encouraging social activities, healthy eating and exercise[4].
+by encouraging social activities, healthy eating and exercise[4].
 
 That is the future that I am working on.
 A future where humanoid robots can enhance and monitor physical activities of the elderly.
 Particularly, in my PhD 
-I have studied, understood and implemented algorithms of nonlinear dynamics and neural networks
+I have studied, understood and implemented algorithms of nonlinear dynamics and artificial neural networks
 in order to automatically measure human movement and emotions 
-in the context of human-robot imitation activities[5].
+in the context of human-robot interaction[5].
 
 Perhaps my parents, back in Mexico, are not going to be benefit 
 from these technological advances 

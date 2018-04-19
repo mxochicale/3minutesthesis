@@ -6,7 +6,7 @@ minutes thesis competition. I think this is also a good exercise to track my pro
 with the use of English language.
 
 
-# Latest Abstract SUBMISSION [:link:](https://github.com/mxochicale/3minutesthesis/blob/master/rehearsals/abstract-submission/README.md), [PDF](https://github.com/mxochicale/3minutesthesis/blob/master/rehearsals/abstract-submission/latex/abstract.pdf)
+# [Latest Abstract SUBMISSION](https://github.com/mxochicale/3minutesthesis/blob/master/rehearsals/abstract-submission/README.md), [pdf](https://github.com/mxochicale/3minutesthesis/blob/master/rehearsals/abstract-submission/latex/abstract.pdf)
 
 # Trials
 The following links provide video recordings of the transcripts.
@@ -16,21 +16,7 @@ The following links provide video recordings of the transcripts.
 * [Video: Trial 02 -- 25 February 2018](https://youtu.be/RbWRD5Ut8FM)
 * [Video: Trial 03 -- 18 March 2018](https://youtu.be/C28De4TDpVQ)
 * [Video: Trial 04 -- 26 March 2018](https://youtu.be/Wsr_gBSDS84)
-
-
-
-# Three Minute Thesis Training
-
-3MT is all about effectively communicating the originality and importance of your research 
-in three minutes to an intelligent but non-expert audience. This training session will help 
-you polish your presentation skills and learn about how to present your research in 3 
-minutes in an engaging way.
-
-
-Location: Gisbert Kapp Building - NG15  
-Dates: Thursday 19th April 2018 (15:00-17:00)  
-
-
+* Three Minute Thesis Training ( Location: Gisbert Kapp Building - NG15; Dates: Thursday 19th April 2018 (15:00-17:00)  )
 
 
 
