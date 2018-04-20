@@ -1,6 +1,12 @@
 REFERENCES
 ---
 
+
+* Romeo-An Intelligent French Robot To Help Elderly With Daily Tasks 
+http://www.technocrazed.com/romeo-an-intelligent-french-robot-to-help-elderly-with-daily-tasks
+  
+
+
 * `1200px-BirminghamUniversityCrest.svg.png` https://en.wikipedia.org/wiki/University_of_Birmingham
 
 * `269_3mt2014.jpg` http://www.universitas21.com/article/research/details/268/three-minute-thesis-competition

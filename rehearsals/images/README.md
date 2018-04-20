@@ -6,6 +6,7 @@ https://static01.nyt.com/images/2014/07/20/sunday-review/0720robot/0720robot-sup
 
 
 ```
+inkscape --export-png figure05.png drawing-v02.svg
 inkscape --export-png figure04.png drawing-v01.svg
 ```
 
