@@ -4,7 +4,7 @@
 
 # ABSTRACT
 If you are lucky enough, you will live to an average of 80 years.
-But, have you ever wondered what it would be like turning 60, 70, 80 or maybe 90 years old?
+But, have you ever wondered what it would be like turning 70, 80 or maybe 90 years old?
 Now, imagine as we age, we will be gradually losing all our
 charming human senses such as sight, hearing, taste, smell, and touch.
 In short, both our cognitive and motor skills will diminish as we age.
@@ -20,33 +20,35 @@ are expected to be more than double by 2050 and to be more than triple by 2100[2
 
 Well, you don`t have to worry too much in the coming years, 
 because this is where caregiver robots come in.
-To give you some examples, in the last decade, experimental robots, mainly Japannese ones, 
-have the capacity to help lift people into and out of their beds and chairs,
-follow recipies for cooking, fold towels or even dispense pills[3].
+Particularly, in my PhD 
+I have studied, understood and implemented algorithms of nonlinear dynamics and 
+working towards the automatic measurement of human movement variability
+using artificial neural networks[5].
+
+Application of my research in the field of Human-Robot Interaction are many, 
+for example example, in the last decade, experimental robots, mainly Japanese ones, 
+have the capacity to help lift 
+people into and out of their beds and chairs, follow recipes for cooking, 
+fold towels or even dispense pills[3].
 Recently, in the last five years robots like
 Paro, a small humanoid robot, can play games and dance with the elder
-and therefore keep their minds activite.
+and therefore keep their minds active.
 Another example is Pepper, a personal humanoid robot, that has the power 
 to read and respond to human emotions[0]
 and the list goes on and on.
 
 In the near future, caregiver robots will meet our physical and emotional needs as we age,
 by encouraging social activities, healthy eating and exercise[4].
-
 That is the future that I am working on.
-A future where humanoid robots can enhance and monitor physical activities of the elderly.
-Particularly, in my PhD 
-I have studied, understood and implemented algorithms of nonlinear dynamics and artificial neural networks
-in order to automatically measure human movement and emotions 
-in the context of human-robot interaction[5].
+A future where humanoid robots can automatically enhance and monitor physical activities of the elderly.
 
-Perhaps my parents, back in Mexico, are not going to be benefit 
+Perhaps my family, back in Mexico, are not going to be directly benefit 
 from these technological advances 
-but I do believe that future generations of people around the world
+but I do believe that future generations of people worldwide
 will be assisted by caregiver robots,
 therefore making the elderly more independent, happier and healthier!
 
-389 _words_
+385 _words_
 
 # References
 * [ [0] Mark Hay, 24 June 2015 ](https://www.good.is/articles/robots-elder-care-pepper-exoskeletons-japan)
