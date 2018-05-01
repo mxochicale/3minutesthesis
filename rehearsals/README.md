@@ -8,6 +8,12 @@ with the use of English language.
 
 # [Latest Abstract SUBMISSION](https://github.com/mxochicale/3minutesthesis/blob/master/rehearsals/abstract-submission/README.md), [pdf](https://github.com/mxochicale/3minutesthesis/blob/master/rehearsals/abstract-submission/latex/abstract.pdf)
 
+# 3 minutes timer
+
+* [http://e.ggtimer.com/3minutes](http://e.ggtimer.com/3minutes)
+
+
+
 # Trials
 The following links provide video recordings of the transcripts.
 

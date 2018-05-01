@@ -34,11 +34,11 @@ Applications of my research are many but let me give you two examples
 * In the last five years, 
 robots like Palro, a small humanoid robot, can play games and dance with the elder
 and therefore keep their minds active.
-* Another one is Pepper, a personal humanoid robot,  has the power 
+* Another one is Pepper, a personal humanoid robot, which has the power 
 to read and respond to human emotions[0].
 
-Both of the previous examples offer no feedback of people's movement when 
-interacting with the humanoid robots.
+None of these examples provide measurament of movevement variability 
+when people is interacting with the humanoid robots.
 
 So, in the near future, caregiver robots will gradually meet our physical and emotional needs as we age,
 by encouraging social activities, healthy eating and exercise[4].
