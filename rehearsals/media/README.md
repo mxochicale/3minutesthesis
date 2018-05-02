@@ -15,7 +15,7 @@ These are some instructions for the creation of the video:
 	* 2.2 Add audio waveform filter Put Audio as the Video 2 and go to 
 	"Add effect > audio > Audio Waveform Filter" then select the colors and tick of the image
 	* 2.3 Ajust audio signal, and 
-	* 2.4 Then you can render it to file.
+	* 2.4 Then you can render it to file (using mp4 extension.)
 	* DELETE BACKUP FILE
 
 * 3. Upload to youtube as un unlisted video also added it to the playlist 3minutesthesis 
