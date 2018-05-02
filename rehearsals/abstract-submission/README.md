@@ -30,8 +30,8 @@ I have also conducted experiments in the context of human robot-interaction
 where people follow upper arm movements performed by a robot 
 in order to test the algorithms that measure movement variability[5].
 
-Applications of my research are many but let me give you two examples
-* In the last five years, 
+Applications of my research are many but let me just give you two examples
+* In the last five years,
 robots like Palro, a small humanoid robot, can play games and dance with the elder
 and therefore keep their minds active.
 * Another one is Pepper, a personal humanoid robot, which has the power 
@@ -52,7 +52,7 @@ future generations of people world-wide
 will be assisted by caregiver robots,
 therefore making the elderly more independent, happier and healthier!
 
-404 _words_
+405 _words_
 
 # References
 * [ [0] Mark Hay, 24 June 2015 ](https://www.good.is/articles/robots-elder-care-pepper-exoskeletons-japan)
