@@ -2,6 +2,12 @@
 
 # TODO
 
+* [ ] add academic references using water marks for copyright images
+	added: Wed May  9 22:56:22 BST 2018   
+	sorted: 
+
+
+
 * [ ]  poslish the script and pandoc file with feeback from the heat judges
 	(added:9may2018.10h08m, sorted:?)
 

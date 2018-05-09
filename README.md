@@ -24,8 +24,8 @@ we warmly encourage you to take part. [Source](https://intranet.birmingham.ac.uk
 * [x] The deadline to submit your 3MT slide for the heat is 1 May 2018.
 * [x] 3MT heat practice 2 May 2018 12h00 at Aston Webb Main Lecture
 * [x] 3MT heat will take place on 3 May 2018 at Aston Webb Main Lecture
-* [ ] Filming 3MT final: 15 May 2018
-* [ ] Birmingham 3MT final: 16 May 2018
+* [ ] Filming 3MT final: Tuesday 15 May 2018, 12h00 -- Aston Webb Main Lecture Theatre
+* [ ] Birmingham 3MT final: Wednesday 16 May 2018, (14:00-15:30) --  Aston Webb Main Lecture Theatre
 * [ ] UK-wide 3MT semi-final: mid-July 2018
 * [ ] UK-wide final: 17 September 2018
 

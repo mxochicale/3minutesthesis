@@ -2,10 +2,6 @@
 Miguel P Xochicale   
 https://github.com/mxochicale/3mt
 
-
-
-
-
 If we are lucky enough, we will live to an average of 80 years.
 But, have you ever wondered what it would be like turning 80, 90 or maybe 100 years old?
 Now, imagine as we age, we will be gradually losing all of our
@@ -71,7 +67,8 @@ therefore making the elderly more independent, happier and healthier!
 ## Acknowledgements
 
 I would like to acknowledge to the following people
-who helped me to improve the general idea for the 3 Minutes Thesis competition.
+who helped me to improve the use of English and body language 
+for the 3 Minutes Thesis competition.
 To Georgina Hardy and Eren Bilgen for the feedback on how to use 
 the body language and our voice to create pause in the training and drop in classes. 
 To my English teachers at the brasshouse and to 
