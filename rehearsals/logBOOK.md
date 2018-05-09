@@ -1,9 +1,5 @@
 # TODO
 
-
-* [ ] create a pandoc latex document to avoid uptaing read me and latex document
-	(added:27march2018, sorted:)
-
 * [ ] change the image to one which is more related to the research outcomes
 	(added:27march2018, sorted:)
 
@@ -17,6 +13,10 @@ scenarios of applications for robot caregivers
 
 
 # SORTED
+
+* [x] create a pandoc latex document to avoid uptaing read me and latex document
+	(added:27march2018, sorted:9may2018.10h05m)
+
 
 * [x] polishing script with george and eren feedback:
 	* put more emphasis on my actual research in the speech
