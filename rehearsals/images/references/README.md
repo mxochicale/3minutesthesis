@@ -1,5 +1,9 @@
 REFERENCES
 ---
+* Amie Wilkilson
+http://www.queensu.ca/mathstat/sites/webpublish.queensu.ca.mastwww/files/images/news_and_seminars/colloquium/apr_6_2018.jpg
+added: Thu 10 May 18:42:49 BST 2018
+
 * Palro
 http://www.liveyourretirement.com/blog/wp-content/uploads/2016/04/robot_japan.jpg
 added: 1may2018.12h21m
