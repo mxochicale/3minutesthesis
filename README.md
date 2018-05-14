@@ -155,9 +155,3 @@ range; maintain a steady pace, and have a confident stance?
 legible, and concise?
 
 
-
-
-# TWITTS
-
-
-* `https://twitter.com/_mxochicale/status/963758445479563265`

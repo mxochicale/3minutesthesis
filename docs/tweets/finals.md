@@ -1,4 +1,31 @@
 
+#  twett for the final
+
+
+```
+Today, 2pm in Aston Webb MLT @unibirmginahm,
+
+
+I will be in the 3 Minutes Thesis Final Competiton  #birmingham3MT
+
+Open Access Data: SCRIPT /IMAGES / REHARSAL /&MORE @GitHub https://github.com/mxochicale/3mt
+
+P.S. Many thanks to @ErenBilgen et al. at @UoBGradSchool
+for the wonderful organisation and your great advice.
+```
+
+
+
+
+* photos MX images and others presenters
+* audio link
+* script:
+* github
+
+* tag @uobgradschool @eps uni @unibirmginahm @3mt
+
+
+# anouncing finalist 
 
 https://twitter.com/UoBGradSchool/status/993874104548839424
 
@@ -12,13 +39,10 @@ https://www.eventbrite.co.uk/e/birmingham-three-minute-thesis-3mt-final-tickets-
 
 
 
-#  twett for the final
+# firstone
 
-* photos MX images and others presenters
-* audio link
-* script:
-* github
+* https://twitter.com/_mxochicale/status/963758445479563265
 
-* tag @uobgradschool @eps uni @unibirmginahm @3mt
+
 
 
