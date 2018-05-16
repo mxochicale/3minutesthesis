@@ -1,15 +1,10 @@
 
-#  twett for the final
-
+#  twitt for the finals
 
 ```
-Today, 2pm in Aston Webb MLT @unibirmginahm,
-
-
-I will be in the 3 Minutes Thesis Final Competiton  #birmingham3MT
-
-Open Access Data: SCRIPT /IMAGES / REHARSAL /&MORE @GitHub https://github.com/mxochicale/3mt
-
+Today, I will be in the 3 Minutes Thesis Final Competiton #birmingham3MT.
+2pm Aston Webb MLT @unibirmingham @eps_unibham @EESEunibham 
+Open Access 3MT: SCRIPT/IMAGES/REHARSAL/&MORE @GitHub https://github.com/mxochicale/3mt
 P.S. Many thanks to @ErenBilgen et al. at @UoBGradSchool
 for the wonderful organisation and your great advice.
 ```
