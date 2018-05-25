@@ -1,10 +1,8 @@
 
 
 # Are Robots the Future for Elderly Care?
-
-Watch my presentation where I was one of the ten finalist 
-of Three Minute Thesis 2018 at The University of Birmingham
-
+Watch my participation in the Three Minute Thesis 2018 at The University of Birmingham
+where I was one of the ten finalist.
 [![watch my presentation](https://raw.githubusercontent.com/mxochicale/3mt/master/docs/video/images/videoimage01.png)](https://www.youtube.com/watch?v=07ewRYcS-0g)
 
 

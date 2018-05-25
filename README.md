@@ -1,7 +1,10 @@
-Three Minute Thesis (3MT) 2018 at The University of Birmingham
+Three Minute Thesis (3MT)
 ---
 
-
+# Are Robots the Future for Elderly Care?
+Watch my participation in the Three Minute Thesis 2018 at The University of Birmingham
+where I was one of the ten finalist.
+[![watch my presentation](https://raw.githubusercontent.com/mxochicale/3mt/master/docs/video/images/videoimage01.png)](https://www.youtube.com/watch?v=07ewRYcS-0g)
 
 
 # Three Minute Thesis (3MT) [:link:](https://intranet.birmingham.ac.uk/as/studentservices/graduateschool/eventinfo/3MT.aspx)
