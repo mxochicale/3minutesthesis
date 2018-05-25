@@ -1,5 +1,10 @@
-Three Minute Thesis (3MT) [:link:](https://intranet.birmingham.ac.uk/as/studentservices/graduateschool/eventinfo/3MT.aspx)
+Three Minute Thesis (3MT) 2018 at The University of Birmingham
 ---
+
+
+
+
+# Three Minute Thesis (3MT) [:link:](https://intranet.birmingham.ac.uk/as/studentservices/graduateschool/eventinfo/3MT.aspx)
 
 Three Minute Thesis (3MT®) is a research communication competition developed 
 by the University of Queensland in 2008, in which doctoral researchers have 
@@ -17,17 +22,17 @@ research and having the chance to win an international research bursary,
 we warmly encourage you to take part. [Source](https://intranet.birmingham.ac.uk/as/studentservices/graduateschool/eventinfo/3MT.aspx).
 
 
-# Key Dates:
+# Key Dates for my participation:
 * [x] Deadline to submit your application: 9 April 2018  _(done: 15february2018)_
 * [x] 3MT Training: (Date: Thursday, 19 April 2018, Time: 15:00-17:00, Place: Gisbert Kapp NG 15)
 * [x] drop-in sessions on Thursday 26th April, 2-4pm, Gisbert Kapp N224
 * [x] The deadline to submit your 3MT slide for the heat is 1 May 2018.
 * [x] 3MT heat practice 2 May 2018 12h00 at Aston Webb Main Lecture
 * [x] 3MT heat will take place on 3 May 2018 at Aston Webb Main Lecture
-* [ ] Filming 3MT final: Tuesday 15 May 2018, 12h00 -- Aston Webb Main Lecture Theatre
-* [ ] Birmingham 3MT final: Wednesday 16 May 2018, (14:00-15:30) --  Aston Webb Main Lecture Theatre
-* [ ] UK-wide 3MT semi-final: mid-July 2018
-* [ ] UK-wide final: 17 September 2018
+* [x] Filming 3MT final: Tuesday 15 May 2018, 12h00 -- Aston Webb Main Lecture Theatre
+* [x] Birmingham 3MT final: Wednesday 16 May 2018, (14:00-15:30) --  Aston Webb Main Lecture Theatre
+* ~[ ] UK-wide 3MT semi-final: mid-July 2018~
+* ~[ ] UK-wide final: 17 September 2018~
 
 ## About Birmingham 3MT
 
@@ -80,7 +85,7 @@ The Birmingham 3MT 2017 Winner's Prize will be a £500 bursary.
 
 
 # University of Birmingham 3MT winners
-
+* Birmingham 3MT 2018 winner: [Ella Hawkins (College of Arts and Law)](https://www.youtube.com/watch?v=b-u-tamL7MM)
 * Birmingham 3MT 2017 winner: [Meryl Lewis (School of Clinical Psychology)](https://www.youtube.com/watch?v=zUM6l6miaMA)
 * Birmingham 3MT 2016 winner: [Mathew Schofield (School of Physics and Astronomy)](https://www.youtube.com/watch?v=DhVb9cAWqWM)
 * Birmingham 3MT 2015 winner: [Rosalind Davies (School of Chemical Engineering)](https://www.youtube.com/watch?v=3WopKnCkMRg&feature=youtu.be)
